@@ -5,6 +5,7 @@ Une simple calculatrice en Python avec :
 - Soustraction
 - Multiplication
 - Division
+- Gestion des erreurs, divisions par 0
 
 ## Lancer le programme
 ```bash
